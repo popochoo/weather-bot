@@ -11,5 +11,5 @@ Thank you for attention!
 ## Install
 
 ```shell script
-git clone 
+git clone https://github.com/popochok/weather-bot.git
 ```
